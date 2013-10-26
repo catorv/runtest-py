@@ -1,0 +1,17 @@
+The ``example`` module
+======================
+
+Using ``factorial``
+-------------------
+
+This is an example text file in reStructuredText format.  First import
+``factorial`` from the ``example`` module:
+
+
+Now use it:
+
+  >>> import test_dir.Text
+  
+  >>> v = test_dir.Text.Test()
+  >>> print(v.addition(2, 5))
+  7

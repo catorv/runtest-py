@@ -1,0 +1,6 @@
+data
+build
+__pycache__
+*.pyc
+coverage
+coverage-cmd.py
